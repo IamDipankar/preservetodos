@@ -1,0 +1,24 @@
+# Build output
+build/
+.gradle/
+*.apk
+*.ap_
+
+# IDE files
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Generated files
+gen/
+bin/
+out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
