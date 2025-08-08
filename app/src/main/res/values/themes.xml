@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.PreserveToDos" parent="android:Theme.Material">
-        <!-- Primary brand color. -->
-        <item name="android:colorPrimary">@color/primary_color</item>
-        <item name="android:colorPrimaryDark">@color/primary_dark</item>
-        <item name="android:colorAccent">@color/accent_color</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targetApi="l">?android:attr/colorPrimaryDark</item>
+    <style name="Theme.PreserveToDos" parent="android:Theme.Material.Light">
         <!-- Customize your theme here. -->
     </style>
 </resources>
