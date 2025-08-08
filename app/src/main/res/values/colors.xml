@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="accent_color">#FFC107</color>
+    <color name="deadline_color">#FF6F00</color>
+    <color name="overdue_color">#D32F2F</color>
+    <color name="completed_color">#4CAF50</color>
+</resources>
